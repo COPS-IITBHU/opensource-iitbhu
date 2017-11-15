@@ -14,14 +14,15 @@ Follow these steps to submit your report here.
 	```cd opensource-iitbhu/intro_reports/```
 
 4. Move/Create your .md file, explaining all the stuff about you.
-	```mv path_to_your_file/temp.md ./```
+	```mv path_to_your_file/githubusername.md ./```
 
 5. On your terminal, type following cmds.
 	```
 	git status
-	git add temp.md
+	git add githubusername.md
 	git commit # Explain your commit
 	git push
 	```
+> Replace githubusername with you GitHub Username.
 
 6. Make a pull request to the main repo online.
