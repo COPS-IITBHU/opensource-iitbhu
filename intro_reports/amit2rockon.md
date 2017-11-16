@@ -24,5 +24,6 @@
  
 <br> My interest involves coding  |  Listening music  |   Forking on Github <3 <br/>
  > i like to enhance my coding skills by contributing to Opensource .
- ## Link to  [Github](https://github.com/amit2rockon) and [Twitter](https://twitter.com/amit2rockon) 
+  
+Link to  [Github](https://github.com/amit2rockon) and [Twitter](https://twitter.com/amit2rockon) 
 
