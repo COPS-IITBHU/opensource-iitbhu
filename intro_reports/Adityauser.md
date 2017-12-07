@@ -2,11 +2,11 @@
 I'm Aditya Singh, MnC 1st year.
 
 ## Skills
-*C
+* C
 
-*C++
+* C++
 
-*Octave(Still learning)
+* Octave(Still learning)
 
 ## Git Experience
 Participated in hacktoberfest(used git online).Submitted this report using Bash.
