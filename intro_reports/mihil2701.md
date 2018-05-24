@@ -1,5 +1,5 @@
 ## ABOUT ME
-I am Mihil Gupta CSE(IDD) 1st years
+I am Mihil Gupta CSE(IDD) 1st year
 ## LANGUAGES
 * C
 * C++
