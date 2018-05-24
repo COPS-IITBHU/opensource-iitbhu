@@ -9,5 +9,5 @@ I am Mihil Gupta CSE(IDD) 1st years
 * Just started learning git by CSOC. Really helping me out.
 ## Interest
 * Competitive programing
-* Machine learning( learning from coursera on 7th week)
+* Machine learning( learning from coursera)
 * Exploring development also
