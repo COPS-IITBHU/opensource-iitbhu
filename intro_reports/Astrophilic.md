@@ -11,7 +11,7 @@ I'm Pankaj Hazra
 * I would like to learn more of git and github.
 
 ## Open-Source Experience
-*I am aware of Open source but have never contributed into any large repo or project.
+* I am aware of Open source but have never contributed into any large repo or project.
 
 ## Interests
 * Competitive Programming
