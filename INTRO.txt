@@ -1,0 +1,14 @@
+# About Me
+HI, I am Ashish Gupta 
+student of part 1 chemical engineering
+
+#Skills
+C++
+C
+Python
+#Interest
+ I have  keen interest in programming.
+As AI is one of the most intereting and 
+exciting field of computer science so I'm 
+learning Ml in vaction to make my vacation
+productive  
