@@ -1,1 +1,1 @@
-vinit patra ece 2nd yr
+vinit patra ece 
